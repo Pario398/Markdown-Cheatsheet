@@ -21,6 +21,7 @@ Markdown is a lightweight markup language used for formatting text on the web. I
 ## Text Formatting
 
 ### Headers
+---
 
 # Heading 1
 ## Heading 2
