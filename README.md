@@ -114,10 +114,10 @@ def greet(name):
 ```
 
 ```Markdown
-```python
-def greet(name):
-    print(f"Hello, {name}!")
-```
+    ```python
+    def greet(name):
+        print(f"Hello, {name}!")
+    ```
 ```
 
 ### Horizontal Rule
