@@ -113,7 +113,7 @@ def greet(name):
     print(f"Hello, {name}!")
 ```
 
-```Markdown
+```
     ```python
     def greet(name):
         print(f"Hello, {name}!")
