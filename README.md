@@ -41,7 +41,9 @@ Markdown is a lightweight markup language used for formatting text on the web. I
 ### Emphasis
 
 *Italic text*
+
 **Bold text**
+
 ***Bold and italic text***
 
 ```Markdown
